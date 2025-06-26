@@ -1,12 +1,29 @@
 {
-  "apiEndpoint" : [
+  "feedbacks": [
     {
-      "name" : "UMA",
-      "skills" : ["javaScript", "node.js", "react.js"]
+      "id": 1,
+      "content": "This is a sample feedback!",
+      "likes": 2
     },
     {
-      "name":"RADHA",
-      "skills" : ["Adobe Illustrator", "Adobe After effects"]
+      "id": 2,
+      "content": "Loving this community wall ❤️",
+      "likes": 5
+    },
+    {
+      "content": "basic",
+      "likes": 0,
+      "id": 3
+    },
+    {
+      "content": "basic",
+      "likes": 0,
+      "id": 4
+    },
+    {
+      "content": "f the syetm",
+      "likes": 7,
+      "id": 5
     }
   ]
 }
